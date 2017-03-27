@@ -1,0 +1,53 @@
+
+body{
+  background-image: url("../images/grid.jpg");
+  color: rgb(50, 50, 50);
+  font-family : 'Open Sans', serif;
+
+}
+
+h1{
+  font-family: 'Arvo', serif;
+  font-size: 50px;
+  color: #11468C;
+}
+
+a{
+  color: #5A86BF;
+  text-decoration: none
+}
+
+a:hover{
+  color: #11468C;
+}
+
+#container{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#catchline{
+	font-weight: normal;
+	color: brown;
+}
+
+#teaser{
+	border: 2px solid;
+	background-color: white;
+	text-align: center;
+	padding: 15px;
+	padding: 30px 200px 30px 200px;
+  	margin: 40px 0px 40px 0;
+  	box-shadow: 0 0 2px grey;
+}
+
+.circle {
+	border: 1px solid grey;
+	border-radius: 50%;
+	padding: 20px;
+}
+
+#social-links a{
+	color: orange;
+}
